@@ -18,7 +18,7 @@ namespace Nombres
                 Console.WriteLine(Nombres[i]);
             }
             Console.ReadLine();
-            //Gilberto
+            
         }
     }
 }
